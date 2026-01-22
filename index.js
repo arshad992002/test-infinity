@@ -118,6 +118,21 @@ app.post("/api/messages", async (req, res) => {
   res.json({ success: true });
 });
 
+// -------------------- FRONTEND --------------------
+const publicDir = join(__dirname, "public");
+
+if (fs.existsSync(publicDir)) {
+  app.use(express.static(publicDir));
+
+  // SPA Fallback
+  app.get("*", (req, res) => {
+    if (req.path.startsWith("/api")) return res.status(404).json({ error: "Not found" });
+    res.sendFile(join(publicDir, "index.html"));
+  });
+} else {
+  console.log("⚠️  'public' folder not found. Running in API-only mode.");
+}
+
 // -------------------- START SERVER --------------------
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
