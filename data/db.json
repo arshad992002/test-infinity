@@ -1,0 +1,108 @@
+{
+  "content": {
+    "hero": {
+      "title": "TIMELESS ELEGANCE",
+      "subtitle": "Exquisite Jewelry Since 2018",
+      "videoUrl": "/uploads/file-1769024412211-512379592.mp4"
+    },
+    "about": {
+      "title": "Where Heritage Meets Artistry",
+      "text": [
+        "For over a century, Maison Lumière has been synonymous with extraordinary craftsmanship and timeless design. Each piece in our collection is a testament to the dedication of our master artisans who blend traditional techniques with contemporary vision.",
+        "We believe that jewelry is not merely an accessory, but a personal expression of elegance, a celebration of life's precious moments, and a legacy to be treasured for generations.",
+        "Our atelier continues to set the standard for exceptional quality, creating bespoke pieces that capture the essence of refined luxury and individual style."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&h=1000&fit=crop"
+    },
+    "craftsmanship": {
+      "title": "The Art of Perfection",
+      "text": "Every Maison Lumière piece begins with a sketch and ends with a masterpiece. Our artisans dedicate hundreds of hours to ensuring every facet reflects our commitment to excellence.",
+      "stats": [
+        {
+          "number": "100+",
+          "label": "Years of Heritage"
+        },
+        {
+          "number": "50",
+          "label": "Master Artisans"
+        },
+        {
+          "number": "∞",
+          "label": "Infinite Beauty"
+        }
+      ]
+    }
+  },
+  "products": [
+    {
+      "id": "1",
+      "name": "The Lumière Solitaire",
+      "description": "A masterpiece featuring a flawless 5-carat diamond set in platinum.",
+      "specs": "Platinum • 5.0ct Diamond • VVS1 Clarity",
+      "imageUrl": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=400&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=400&h=300&fit=crop"
+      ],
+      "category": "Signature"
+    },
+    {
+      "id": "2",
+      "name": "Royal Sapphire",
+      "description": "An exquisite pendant featuring rare Ceylon sapphires surrounded by brilliant diamonds.",
+      "specs": "18K White Gold • Ceylon Sapphire • Diamond Halo",
+      "imageUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400&h=300&fit=crop"
+      ],
+      "category": "Signature"
+    },
+    {
+      "id": "1769024462655",
+      "name": "test",
+      "description": "adfsdaf",
+      "specs": "asdf",
+      "imageUrl": "/uploads/file-1769024456816-585581805.jpg",
+      "images": [
+        "/uploads/file-1769024456816-585581805.jpg"
+      ],
+      "category": "Diamonds"
+    }
+  ],
+  "collections": [
+    {
+      "id": "c1",
+      "name": "Eternal Diamonds",
+      "tagline": "Brilliant Perfection",
+      "imageUrl": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=600&h=800&fit=crop"
+    },
+    {
+      "id": "c2",
+      "name": "Precious Gemstones",
+      "tagline": "Nature's Finest",
+      "imageUrl": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=600&h=800&fit=crop"
+    },
+    {
+      "id": "c3",
+      "name": "Heritage Gold",
+      "tagline": "Classic Elegance",
+      "imageUrl": "https://images.unsplash.com/photo-1535632787350-4e68ef0ac584?w=600&h=800&fit=crop"
+    }
+  ],
+  "gallery": [],
+  "messages": [
+    {
+      "id": "1769021459153",
+      "date": "2026-01-21T18:50:59.153Z",
+      "name": "adf",
+      "email": "mohammedarshad092002@gmail.com",
+      "message": "adf"
+    },
+    {
+      "id": "1769029461536",
+      "date": "2026-01-21T21:04:21.536Z",
+      "name": "Mohammed Abdul Arshad",
+      "email": "mohammedarshad092002@gmail.com",
+      "message": "zcxvzxc"
+    }
+  ]
+}
